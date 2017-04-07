@@ -3,7 +3,7 @@ Minding the gap between revenues collected by the State of Wisconsin and the por
 
 ## Live links
 - Leaflet Map https://ryanjerving.github.io/WI-State-Aid-Gap/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1dPGl1ifD8X9yWy7NEtNsm3U_k4o9hxWp88solkvUh6U/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1H3ylSOT1hH9vk0ChUoKhHA0JNBd8vOGCzBwGMuX3Rlk/edit#gid=0
 
 ## Credits (and licenses)
 Based on a repo template named "Leaflet Maps with Google Sheets - polygons-version for teaching purposes" developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT.
